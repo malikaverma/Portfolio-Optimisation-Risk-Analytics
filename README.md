@@ -15,6 +15,12 @@ The S&P 500 index (^GSPC) is used as a market benchmark to evaluate systematic r
 The objective of this project is to analyse risk-return characteristics, evaluate diversification benefits, construct optimal portfolios, and assess portfolio risk using the Single Index Model.
 
 ---
+# Files
+
+- [Portfolio Notebook](Portfolio.ipynb)
+- [HTML Report](Portfolio.html)
+
+---
 
 # Data
 
@@ -130,8 +136,3 @@ The results demonstrate that diversification can reduce portfolio risk while mai
 - Risk-return modelling
 
 ---
-
-# Files
-
-- [Portfolio Notebook](Portfolio.ipynb)
-- [HTML Report](Portfolio.html)
