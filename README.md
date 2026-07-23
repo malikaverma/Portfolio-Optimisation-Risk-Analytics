@@ -59,12 +59,6 @@ The dataset is processed using Python, with monthly returns calculated from hist
 - Opportunity set analysis
 - Sharpe ratio optimisation
 
-## Market Stress Testing
-
-- COVID-19 market drawdown analysis
-- Peak-to-trough decline measurement
-- Recovery analysis
-
 ## Single Index Model
 
 - CAPM-based regression against the S&P 500
